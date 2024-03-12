@@ -10,6 +10,7 @@
 *.userosscache
 *.sln.docstates
 images/
+bootstrap-5.3.3-dist/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs

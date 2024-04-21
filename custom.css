@@ -24,3 +24,7 @@
     height: 50px;
     margin: 5px 5px;
 }
+
+footer div > a {
+    text-decoration: none;
+}

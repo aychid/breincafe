@@ -12,4 +12,3 @@ languageButton.addEventListener('click', () => {
     languageButton.textContent = 'English';
   }
 });
-// TODO add to github repo
